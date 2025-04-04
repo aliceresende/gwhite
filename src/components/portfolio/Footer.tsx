@@ -12,6 +12,7 @@ const Footer = () => {
             <p className="text-muted-foreground">Software Developer Specialist | Portals & Collaboration</p>
           </div>
           
+          
           <div className="flex space-x-6">
             <a 
               href="mailto:goncalo.branco@example.com" 
